@@ -1,0 +1,5 @@
+C:\Users\raghunath\Documents\PSoC Creator\Finalproject\IMU-sparkfun.cydsn\IMU-sparkfun.cyprj|70cf21c3-6cbd-4512-8094-1d14289a467b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|da9307e2-64e1-4a47-9390-23f13bb550a7
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|39aa7d1e-1c57-4130-9661-e5a43a1f51ac
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|de39d3c5-f980-4543-9a91-95284dfac3d8
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|68a0da0c-6edc-42bb-91c1-f0ce00e1de57
